@@ -1,13 +1,19 @@
-<h1> Olá, eu sou o Matheus Thomaz!✌️</h1>
+### Olá, eu sou o Matheus Thomaz! <img height="25px" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/270c.gif">
 
 💻 Estudando, aprendendo e aprimorando minhas habilidades no Front-end<br>
 
 ### Tecnologias que mais utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<div>
+<img height="45px" src="https://skillicons.dev/icons?i=html">
+<img height="45px" src="https://skillicons.dev/icons?i=css">
+<img height="45px" src="https://skillicons.dev/icons?i=js">
+</div>
 
 ### Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheus-thomaz) [![e-mail](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](https://outlook.com/matheus1.melo@hotmail.com)
+<div>
+<img height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+</div>
 
-<i>Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.</i> (Provérbios 16:3)
+<br><i>Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.</i> (Provérbios 16:3)
