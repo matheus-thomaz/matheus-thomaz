@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus Thomaz!✌️
+<h1> Olá, eu sou o Matheus Thomaz!✌️</h1>
 
 💻 Estudando, aprendendo e aprimorando minhas habilidades no Front-end<br>
 
