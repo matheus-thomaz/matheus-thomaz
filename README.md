@@ -1,4 +1,4 @@
-### <h1> Olá, eu sou o Matheus Thomaz! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/270c.gif" height="25px"/> </h1>
+### Olá, eu sou o Matheus Thomaz! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/270c.gif" height="25px"/>
 
 💻 Estudando, aprendendo e aprimorando minhas habilidades no Front-end<br>
 
