@@ -13,7 +13,7 @@
 ### Contato:
 
 <div>
- <a herf="https://www.linkedin.com/in/matheus-thomaz"> <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="linkedin.com/in/matheus-thomaz"> <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="mailto:matheus1.melo@hotmail.com"> <img height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
